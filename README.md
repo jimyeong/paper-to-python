@@ -1,9 +1,10 @@
 
 # paper-to-python
+<img width="450" height="600" alt="paper-to-python" src="https://github.com/user-attachments/assets/a0bf93c2-0755-4ee5-ac48-5e7e7d2a1861" />
 
 Reimplementing Python's core data structures from scratch — drawn on paper first,
 then coded by hand.
-<img width="450" height="600" alt="paper-to-python" src="https://github.com/user-attachments/assets/a0bf93c2-0755-4ee5-ac48-5e7e7d2a1861" />
+
 
 ## Why this exists
 
