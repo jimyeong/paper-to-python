@@ -35,7 +35,7 @@ Each entry follows the same loop:
 
 Each data structure lives in its own folder:
 
-​```
+```
 linked-list/
 ├── README.md             # Concept + invariants
 ├── diagrams/             # Hand-drawn sketches
@@ -43,7 +43,7 @@ linked-list/
 ├── tests.py
 ├── notes.md              # What I got wrong, what surprised me
 └── cpython-comparison.md
-​```
+```
 
 ## Progress
 
